@@ -1,0 +1,30 @@
+# Node.js / NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Angular
+/dist/
+/coverage/
+/e2e/*.js
+/e2e/*.map
+.angular/
+.stackblitzrc
+
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Compiled output
+/dist/
+/out-tsc/
+
+# Environment variables
+/src/environments/*.js
+/src/environments/*.js.map
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+ 
